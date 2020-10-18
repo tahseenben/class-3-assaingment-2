@@ -1,0 +1,34 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    
+    margin: 50px 0px;
+}
+.header {overflow: hidden;width: 900px;margin: auto;}
+.content {
+    background: #6666662b;
+    width: 25%;
+    float: left;
+    margin: 20px 10px;
+    padding: 20px 25px;
+}
+.content p {
+    font-size: 14px;
+    line-height: 16px;
+}
+
+.content h1 {margin: 0px;}
+.section {
+    overflow: hidden;
+    background: #66666626;
+}
+.text {text-align: center;margin: 50px 0px;margin-bottom: 0px;}
+img {
+    max-width: 100%;
+}
+
+.sectionImg {overflow: hidden;}
+
+.images {float: left;width: 30%;padding: 40px;margin: 20px 26px;box-sizing: border-box;}
+.text h1 {
+    margin-bottom: 0px;
+}
